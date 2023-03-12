@@ -1,0 +1,61 @@
+body{
+  color:white;background-image:url('https://media.istockphoto.com/id/1445558852/photo/set-of-hand-tools-on-white-plaster-background-work-tools-for-electrician-carpenter-mechanic.jpg?s=612x612&w=0&k=20&c=vM1cZbbDeJ9BECWOExxmLdxEq-Tr8Rgg057GMpwfjGg=')
+  ;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center; 
+}
+header{
+  padding:20px;
+  margin-bottom:30px
+  
+}
+
+#title,#description{ color:white;
+  text-align:center;
+}
+  
+  #survey-form{
+    /* text-align:center; */
+    background-color:#a5a5c4;
+    margin:auto;
+    padding:20px;
+    border:1px;
+    width:600px;
+    padding-top:30px;
+    }
+#name,#email,#number,#dropdown,textarea,#submit{
+  display:block;
+  width:100%;
+  height:30px;
+}
+
+#submit{color:white;
+background-color:green;
+margin-bottom:40px;
+
+height:40px;
+border-style:none;
+}
+  
+body::before{
+ /* color:white;
+  content:"";
+  position:fixed;
+  top:0;
+  left:0;
+  height:100%;
+  width:100%;
+  z-index:-1;
+background-color:#1b1b32
+;
+background-image:linear-gradient(115deg,
+      rgba(58, 58, 158, 0.8),rgba(136, 136, 206, 0.7) ,
+ url(https://media.istockphoto.com/id/1445558852/photo/set-of-hand-tools-on-white-plaster-background-work-tools-for-electrician-carpenter-mechanic.jpg?s=612x612&w=0&k=20&c=vM1cZbbDeJ9BECWOExxmLdxEq-Tr8Rgg057GMpwfjGg=) ;
+    background-size:cover;
+    background-repeat:no-repeat;
+
+    background-position:center;
+}
+*,*::before,*::after{box-sizing:border-box;}
+*/
